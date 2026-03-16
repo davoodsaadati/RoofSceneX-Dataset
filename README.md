@@ -39,7 +39,7 @@ This repository includes trained benchmark models developed in this study:
 
 The complete dataset and trained models are archived through Zenodo:
 
-DOI: (to be added after Zenodo release)
+DOI: 10.5281/zenodo.19043994
 
 ## Keywords
 
