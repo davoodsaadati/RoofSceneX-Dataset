@@ -1,0 +1,40 @@
+Dataset Name: RoofSceneX
+
+Total rooftop instances: 49,283
+
+Cities included:
+
+* Beijing
+* Marina Bay
+* Manila
+* Detroit
+* Utah
+* Singapore airport district
+* Pretoria
+* Göteborg
+* Additional city
+
+Image source:
+Pléiades Neo satellite imagery
+
+Spatial resolution:
+30 cm
+
+Tile size:
+512 × 512 pixels
+
+Tasks:
+
+* Binary rooftop segmentation
+* Building occupancy classification
+
+Occupancy classes:
+
+1. Warehouse / Factory
+2. Apartment / Hotel
+3. Stadium / Sport center
+4. School / Office / Governmental
+5. Shopping mall
+6. Under construction
+7. Greenhouse
+8. Other
