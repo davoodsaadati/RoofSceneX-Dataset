@@ -35,7 +35,7 @@ This repository includes trained benchmark models developed in this study:
 * ViTAttUNet+
 * YOLO26 family for occupancy detection
 
-## Full Dataset Access
+## Full Dataset Access (Download link)
 
 The complete dataset and trained models are archived through Zenodo:
 
