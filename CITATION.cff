@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: RoofSceneX
+message: If you use this dataset, please cite the associated work.
+authors:
+
+* family-names: Saadati
+  given-names: Davood
+  version: 1.0
+  date-released: 2026-03-16
+  doi: pending
