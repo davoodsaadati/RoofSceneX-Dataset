@@ -48,3 +48,4 @@ rooftop segmentation, satellite imagery, building occupancy classification, sema
 ## Citation
 
 Please cite the work in case of use: the reference will be added after related paper gets published.
+Saadati, D., & Safdari, A. (2026). RoofSceneX: Cross‑Condition Open Dataset for Fine‑Grained Building Occupancy Classification and Rooftop Segmentation from Satellite Imagery under Occlusion and Adverse Weather (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19043994
